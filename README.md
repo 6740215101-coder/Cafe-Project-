@@ -29,3 +29,7 @@ jobs:
     # 4. ทดสอบรัน หรือ Build โปรเจกต์
     - name: Run Build Test
       run: npm run build --if-present
+Main Features
+รายชื่อสมาชิก
+นางสาวกิ่งกมล สุขสบาย 6740215101
+นายเปรมชัย  คุณเจริญ 6740215120
